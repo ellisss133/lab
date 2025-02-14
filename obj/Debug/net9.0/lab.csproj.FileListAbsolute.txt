@@ -1,0 +1,14 @@
+c:\Users\roman\Desktop\CS_project\lab\bin\Debug\net9.0\lab.exe
+c:\Users\roman\Desktop\CS_project\lab\bin\Debug\net9.0\lab.deps.json
+c:\Users\roman\Desktop\CS_project\lab\bin\Debug\net9.0\lab.runtimeconfig.json
+c:\Users\roman\Desktop\CS_project\lab\bin\Debug\net9.0\lab.dll
+c:\Users\roman\Desktop\CS_project\lab\bin\Debug\net9.0\lab.pdb
+c:\Users\roman\Desktop\CS_project\lab\obj\Debug\net9.0\lab.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\roman\Desktop\CS_project\lab\obj\Debug\net9.0\lab.AssemblyInfoInputs.cache
+c:\Users\roman\Desktop\CS_project\lab\obj\Debug\net9.0\lab.AssemblyInfo.cs
+c:\Users\roman\Desktop\CS_project\lab\obj\Debug\net9.0\lab.csproj.CoreCompileInputs.cache
+c:\Users\roman\Desktop\CS_project\lab\obj\Debug\net9.0\lab.dll
+c:\Users\roman\Desktop\CS_project\lab\obj\Debug\net9.0\refint\lab.dll
+c:\Users\roman\Desktop\CS_project\lab\obj\Debug\net9.0\lab.pdb
+c:\Users\roman\Desktop\CS_project\lab\obj\Debug\net9.0\lab.genruntimeconfig.cache
+c:\Users\roman\Desktop\CS_project\lab\obj\Debug\net9.0\ref\lab.dll
