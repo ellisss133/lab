@@ -12,3 +12,4 @@ c:\Users\roman\Desktop\CS_project\lab\obj\Debug\net9.0\refint\lab.dll
 c:\Users\roman\Desktop\CS_project\lab\obj\Debug\net9.0\lab.pdb
 c:\Users\roman\Desktop\CS_project\lab\obj\Debug\net9.0\lab.genruntimeconfig.cache
 c:\Users\roman\Desktop\CS_project\lab\obj\Debug\net9.0\ref\lab.dll
+c:\Users\roman\Desktop\CS_project\lab\obj\Debug\net9.0\lab.sourcelink.json
