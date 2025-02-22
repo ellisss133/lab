@@ -21,6 +21,9 @@ class Program
                 case 1:
                     Exponentiation();
                     break;
+                case 2:
+                    NumberOperations();
+                    break;
             }
         }
     }
@@ -44,4 +47,21 @@ class Program
         double result = Math.Pow(numberA, numberN);
         Console.WriteLine("result: " + result);
     }
+
+    static void NumberOperations()
+    {
+        Console.WriteLine("enter the number x (>= 100)");
+        if (!int.TryParse(Console.ReadLine(), out int numberX) || numberX < 100)
+        {
+            Console.WriteLine("the number must be >= 100");
+            return;
+        }
+
+        string xStr = numberX.ToString();
+        char secondDigit = xStr[1];
+        string newX = xStr.Remove(1, 1) + secondDigit;
+
+        Console.WriteLine("result: " + newX);
+    }
 }
+
